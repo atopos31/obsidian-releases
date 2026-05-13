@@ -24232,5 +24232,12 @@
     "author": "o1xhack",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Sync your Trakt.tv watchlist, watch history, favorites, and ratings into Markdown notes — with metadata localization and detailed per-episode watch timestamps.",
     "repo": "o1xhack/obsidian-sync-trakt"
+  },
+  {
+    "id": "ozsync",
+    "name": "OZSync",
+    "author": "atopos31",
+    "description": "Sync notes with ZimaOS for backup, cloud access, and cross-device synchronization.",
+    "repo": "atopos31/OZSync"
   }
 ]
